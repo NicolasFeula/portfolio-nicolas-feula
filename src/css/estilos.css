@@ -1,5 +1,5 @@
 body{
-    background-image: url(../imagens/fundo-site.jpg);
+    background-image: url(../imagens/new-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -17,7 +17,7 @@ body{
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 4px solid #3e0697;
+    border: 2px solid #3e0697;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -31,8 +31,8 @@ body{
 }
 
 .cartao .minhas-informacoes img{
-    border-radius: 50px;
-    border: 4px solid #02d06df3; 
+    border-radius: 60px;
+    border: 4px solid #106ab4; 
     width: 100px;
        
 }
@@ -131,7 +131,7 @@ body{
 }
 
 .redes-sociais .curriculo{
-    background-color: #06c185;
+    background-color: #044826b0;
 }
 
 .redes-sociais .linkedin{
