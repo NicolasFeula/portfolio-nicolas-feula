@@ -8,6 +8,7 @@ body{
     color: #f3f3f3;
     font-size: 18px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
