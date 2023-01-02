@@ -149,8 +149,9 @@ body{
 }
 
 .footer{
-    background-color: #070d12;
+    background-color: #262626;
     display: flex;
     justfy-content: center;
     align-items: center;
+    border-top: solid 1px #f3f3f3;
 }
