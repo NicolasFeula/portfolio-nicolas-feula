@@ -147,3 +147,10 @@ body{
 .redes-sociais .whatsapp{
     background-color: #044826b0;
 }
+
+.footer{
+    background-color: #070d12;
+    display: flex;
+    justfy-content: center;
+    align-items: center;
+}
